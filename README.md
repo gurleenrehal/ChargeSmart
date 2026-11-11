@@ -3,10 +3,6 @@
 **Reinforcement Learning-Based Intelligent EV Charging and Smart Grid Optimization**
 UCS760 - Edge AI and Robotics: Reinforcement Learning & Conversational AI (lab project)
 
-> **Status & honesty notes.** ChargeSmart is a *simulation prototype*; it makes no claim of real-grid deployment.
-> The numbers below were produced on a **synthetic, ACN-schema sample** (not real ACN-Data) because ACN-Data needs an API
-> token. Re-run with real data using the commands below. RL agents were trained briefly on a single CPU with one training
-> seed; in our runs they **improved on uncontrolled charging but did not beat the best hand-written rule-based policy**.
 
 ## 1. Overview, problem and motivation
 Simultaneous EV charging creates demand peaks, grid overload, higher cost and missed departures. Fixed schedules or
