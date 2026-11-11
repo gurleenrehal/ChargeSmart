@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+plotly>=5.20
+gymnasium>=1.0
+stable-baselines3>=2.3
+torch>=2.2
+streamlit>=1.35
+requests>=2.31
+joblib>=1.3
+pytest>=8.0
+# Optional: stronger demand-forecasting model (auto-detected at runtime)
+# xgboost>=2.0
