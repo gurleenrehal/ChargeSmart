@@ -1,0 +1,69 @@
+{
+  "data_source": "Synthetic sample (not real data)",
+  "n_sessions": 3900,
+  "n_stations": 20,
+  "period_start": "2019-01-01 07:25:12",
+  "period_end": "2019-06-29 19:17:20",
+  "total_energy_kwh": 52102.763,
+  "energy_per_session": {
+    "count": 3900.0,
+    "mean": 13.36,
+    "std": 7.151,
+    "min": 1.318,
+    "25%": 8.354,
+    "50%": 11.745,
+    "75%": 16.618,
+    "max": 46.617
+  },
+  "duration_h": {
+    "count": 3900.0,
+    "mean": 6.441,
+    "std": 2.755,
+    "min": 0.4,
+    "25%": 4.089,
+    "50%": 7.103,
+    "75%": 8.546,
+    "max": 14.0
+  },
+  "charge_duration_h": {
+    "count": 3900.0,
+    "mean": 2.778,
+    "std": 1.565,
+    "min": 0.374,
+    "25%": 1.657,
+    "50%": 2.41,
+    "75%": 3.473,
+    "max": 10.858
+  },
+  "avg_power_kw": {
+    "count": 3900.0,
+    "mean": 4.976,
+    "std": 0.963,
+    "min": 0.778,
+    "25%": 4.158,
+    "50%": 4.99,
+    "75%": 5.808,
+    "max": 6.922
+  },
+  "mean_daily_energy_kwh": 289.4597944444444,
+  "peak_hour_of_day": 9,
+  "peak_hour_mean_kwh": 48.39782647305956,
+  "top3_peak_hours": [
+    9,
+    10,
+    11
+  ],
+  "peak_arrival_hour": 8,
+  "max_hourly_energy_kwh": 111.5117389352186,
+  "mean_station_occupancy_pct": 29.157289554360727,
+  "mean_station_charging_pct": 12.573281916657937,
+  "weekday_vs_weekend_session_energy": {
+    "0": 13.362,
+    "1": 13.337
+  },
+  "weekday_vs_weekend_duration_h": {
+    "0": 6.419,
+    "1": 6.715
+  },
+  "corr_duration_energy": 0.29498620929846486
+}

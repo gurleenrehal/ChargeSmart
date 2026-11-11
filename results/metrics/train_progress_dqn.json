@@ -1,0 +1,1 @@
+{"algo": "DQN", "updated": 1794329064.715309, "status": "finished", "timesteps": 120000, "total": 120000, "mean_reward_recent": 24.05704135, "episodes": 1250, "elapsed_s": 131.78510093688965}

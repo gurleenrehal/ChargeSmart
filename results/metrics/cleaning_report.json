@@ -1,0 +1,11 @@
+{
+  "rows_raw": 3926,
+  "dropped_missing_core_fields": 0,
+  "imputed_done_charging_with_disconnect": 13,
+  "removed_bad_duration": 13,
+  "removed_bad_energy": 13,
+  "removed_zero_charge_window": 0,
+  "removed_implausible_power": 0,
+  "rows_clean": 3900,
+  "data_source": "Synthetic sample (not real data)"
+}

@@ -1,0 +1,1 @@
+{"algo": "SAC", "updated": 1794381934.0436058, "status": "finished", "timesteps": 40000, "total": 40000, "mean_reward_recent": 26.31636375, "episodes": 416, "elapsed_s": 257.10213351249695}

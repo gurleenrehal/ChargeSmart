@@ -1,0 +1,1 @@
+{"algo": "PPO", "updated": 1794329295.0204813, "status": "finished", "timesteps": 250000, "total": 250000, "mean_reward_recent": 29.28606575, "episodes": 2620, "elapsed_s": 218.31266975402832}
